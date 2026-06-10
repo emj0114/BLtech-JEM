@@ -8,8 +8,8 @@ __pycache__/
 *.exe
 
 # 개인 데이터 — 각자 PC에만 보관 (앱의 백업 기능으로 따로 백업)
-/test1/data.json
-/test1/data.json.tmp
+/data.json
+/data.json.tmp
 
 # 로컬 전용 설정 (민감 정보 가능)
 /.claude/settings.local.json

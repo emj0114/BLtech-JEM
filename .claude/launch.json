@@ -4,7 +4,7 @@
     {
       "name": "pms",
       "runtimeExecutable": "C:\\Users\\emj01\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
-      "runtimeArgs": ["test1\\server.py", "5510", "--no-browser"],
+      "runtimeArgs": ["server.py", "5510", "--no-browser"],
       "port": 5510
     }
   ]
